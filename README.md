@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋, I'm An
+## Hi there 👋, I'm An ![](https://www.codewars.com/users/anDang/badges/micro)
 
 ### About me
 
